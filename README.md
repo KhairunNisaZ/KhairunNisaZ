@@ -7,4 +7,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhairunNisaZ&show_icons=true&theme=tokyonight)
 
 ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhairunNisaZ&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhairunNisaZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
