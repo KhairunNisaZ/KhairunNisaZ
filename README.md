@@ -9,4 +9,5 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KhairunNisaZ&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)](https://github.com/KhairunNisaZ/github-readme-stats)
 
 <hr/>
+
 [![An image of @khairunnisaz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khairunnisaz)](https://holopin.io/@khairunnisaz)
